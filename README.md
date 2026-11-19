@@ -1,2 +1,2 @@
 # fatec-dmd-aula-poo
-repositorio para aula de programação orientada a objetos
+Repositorio para aula de programação orientada à objetos
